@@ -36,6 +36,9 @@ phpMyAdmin : http://localhost:8081
 - Password : password
 - Host : db
 
+### 4. Déploiement
+Déploiement prévu sur AWS.
+
 ## Auteur
 
 Fair par **Omar Biber**
